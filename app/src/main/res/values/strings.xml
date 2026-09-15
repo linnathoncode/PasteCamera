@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paste Camera</string>
+    <string name="app_description">Take a photo and paste it anywhere</string>
+    <string name="camera_permission_required">Camera access is needed to capture an image.</string>
+</resources>

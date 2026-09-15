@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paste_camera_black">#101114</color>
+    <color name="paste_camera_white">#FAF9FF</color>
+    <color name="paste_camera_accent">#D6E3FF</color>
+    <color name="paste_camera_accent_dark">#ABC7FF</color>
+</resources>
