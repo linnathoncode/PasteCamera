@@ -15,5 +15,3 @@ Open this folder in Android Studio, allow Gradle to sync, then run the `app` con
 - Share opens Android's standard share sheet.
 
 Clipboard image support varies by receiving app. Test paste behavior on the specific Android apps you use.
-
-The original product plan is [clipboard-camera-plan.md](clipboard-camera-plan.md).
